@@ -1,0 +1,11 @@
+{
+  "name": "@runezone/prettier-config",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Shared Prettier config for RuneZone Shared SDK.",
+  "type": "module",
+  "main": "./index.mjs",
+  "exports": {
+    ".": "./index.mjs"
+  }
+}
